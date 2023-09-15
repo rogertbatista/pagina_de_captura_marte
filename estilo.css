@@ -10,7 +10,7 @@ body{
     height: 100vh;
     background-image: url('./img/pexels-mikhail-nilov-7672276.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: left;
 }
 div{
     background-color: #63002880;
