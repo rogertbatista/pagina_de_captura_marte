@@ -11,6 +11,7 @@ body{
     background-image: url('./img/pexels-mikhail-nilov-7672276.jpg');
     background-size: cover;
     background-position: left;
+    background-position-x: left;
 }
 div{
     background-color: #63002880;
